@@ -74,10 +74,10 @@ Highlights:
 
 <table>
 <tr>
-<td align="center" width="25%"><a href="./skills/web-video-presentation/README.md#theme-gallery"><img src="./dist/imgs/web-video/midnight-press.png" alt="midnight-press preview" /></a><br /><sub><code>midnight-press</code><br />developer tutorials</sub></td>
-<td align="center" width="25%"><a href="./skills/web-video-presentation/README.md#theme-gallery"><img src="./dist/imgs/web-video/chalk-garden.png" alt="chalk-garden preview" /></a><br /><sub><code>chalk-garden</code><br />classroom explainers</sub></td>
-<td align="center" width="25%"><a href="./skills/web-video-presentation/README.md#theme-gallery"><img src="./dist/imgs/web-video/newsroom.png" alt="newsroom preview" /></a><br /><sub><code>newsroom</code><br />documentary reporting</sub></td>
-<td align="center" width="25%"><a href="./skills/web-video-presentation/README.md#theme-gallery"><img src="./dist/imgs/web-video/swiss-ikb.png" alt="swiss-ikb preview" /></a><br /><sub><code>swiss-ikb</code><br />info graphics</sub></td>
+<td align="center" width="25%"><a href="./skills/web-video-presentation/README.md#theme-gallery"><img src="./dist/imgs/web-video/creative-voltage.png" alt="creative-voltage preview" /></a><br /><sub><code>creative-voltage</code><br />creative talks</sub></td>
+<td align="center" width="25%"><a href="./skills/web-video-presentation/README.md#theme-gallery"><img src="./dist/imgs/web-video/blueprint.png" alt="blueprint preview" /></a><br /><sub><code>blueprint</code><br />tech architecture</sub></td>
+<td align="center" width="25%"><a href="./skills/web-video-presentation/README.md#theme-gallery"><img src="./dist/imgs/web-video/swiss-ikb.png" alt="swiss-ikb preview" /></a><br /><sub><code>swiss-ikb</code><br />data reports</sub></td>
+<td align="center" width="25%"><a href="./skills/web-video-presentation/README.md#theme-gallery"><img src="./dist/imgs/web-video/chalk-garden.png" alt="chalk-garden preview" /></a><br /><sub><code>chalk-garden</code><br />popular science</sub></td>
 </tr>
 </table>
 

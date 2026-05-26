@@ -74,10 +74,10 @@
 
 <table>
 <tr>
-<td align="center" width="25%"><a href="./skills/web-video-presentation/README.zh-CN.md#主题画廊"><img src="./dist/imgs/web-video/midnight-press.png" alt="midnight-press 预览" /></a><br /><sub><code>midnight-press</code><br />开发者教程</sub></td>
-<td align="center" width="25%"><a href="./skills/web-video-presentation/README.zh-CN.md#主题画廊"><img src="./dist/imgs/web-video/chalk-garden.png" alt="chalk-garden 预览" /></a><br /><sub><code>chalk-garden</code><br />教学课堂</sub></td>
-<td align="center" width="25%"><a href="./skills/web-video-presentation/README.zh-CN.md#主题画廊"><img src="./dist/imgs/web-video/newsroom.png" alt="newsroom 预览" /></a><br /><sub><code>newsroom</code><br />纪录片 / 报道</sub></td>
-<td align="center" width="25%"><a href="./skills/web-video-presentation/README.zh-CN.md#主题画廊"><img src="./dist/imgs/web-video/swiss-ikb.png" alt="swiss-ikb 预览" /></a><br /><sub><code>swiss-ikb</code><br />信息图</sub></td>
+<td align="center" width="25%"><a href="./skills/web-video-presentation/README.zh-CN.md#主题画廊"><img src="./dist/imgs/web-video/creative-voltage.png" alt="creative-voltage 预览" /></a><br /><sub><code>creative-voltage</code><br />创意分享</sub></td>
+<td align="center" width="25%"><a href="./skills/web-video-presentation/README.zh-CN.md#主题画廊"><img src="./dist/imgs/web-video/blueprint.png" alt="blueprint 预览" /></a><br /><sub><code>blueprint</code><br />技术架构</sub></td>
+<td align="center" width="25%"><a href="./skills/web-video-presentation/README.zh-CN.md#主题画廊"><img src="./dist/imgs/web-video/swiss-ikb.png" alt="swiss-ikb 预览" /></a><br /><sub><code>swiss-ikb</code><br />数据汇报</sub></td>
+<td align="center" width="25%"><a href="./skills/web-video-presentation/README.zh-CN.md#主题画廊"><img src="./dist/imgs/web-video/chalk-garden.png" alt="chalk-garden 预览" /></a><br /><sub><code>chalk-garden</code><br />科普讲解</sub></td>
 </tr>
 </table>
 
